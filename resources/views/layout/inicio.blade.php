@@ -95,7 +95,7 @@
         <div class="carousel-item">
             <video class="d-block w-100" controls autoplay loop>
                 <source src="{{ asset('video/JOHN WICK 2.mp4') }}" type="video/mp4">
-                Tu navegador no soporta el video HTML5.
+                Tu navegador no soporta el video HTML5, intenta con otro navegador.
             </video>
             <div class="carousel-caption d-none d-md-block">
                 <h2>John Wick 2 Un Nuevo Dia Para Matar</h2>
